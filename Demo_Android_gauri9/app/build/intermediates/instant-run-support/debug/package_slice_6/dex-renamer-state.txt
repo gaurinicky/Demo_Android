@@ -1,0 +1,4 @@
+#Thu Sep 14 10:05:33 EDT 2017
+base.0=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Android_gauri9\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6
+renamed.0=classes.dex
+file.0=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Android_gauri9\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6\\classes.dex

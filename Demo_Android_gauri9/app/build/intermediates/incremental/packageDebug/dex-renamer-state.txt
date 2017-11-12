@@ -1,0 +1,7 @@
+#Thu Sep 14 10:05:33 EDT 2017
+base.0=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Android_gauri9\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_297dedf9940d9dd6e20e2d7124c2894577128de1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Android_gauri9\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_56fe6da29511efcf56f33a086deb4760686864f0\\classes.dex
+base.1=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Android_gauri9\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_56fe6da29511efcf56f33a086deb4760686864f0
+file.0=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Android_gauri9\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_297dedf9940d9dd6e20e2d7124c2894577128de1\\classes.dex
